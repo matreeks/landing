@@ -1,0 +1,48 @@
+url: https://matreeks.github.io
+baseurl: /landing/
+
+# Site settings
+title: Matreeks Consulting
+email: contact@matreeks.com
+description: "Helping Healthcare And Edtech Startups To Achieve Technological Maturity."
+
+# Team names, titles and social links
+people:
+  - name: George Goodwin
+    pic: 1
+    position: CEO
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+
+  - name: Mark Kovalchyk
+    pic: 2
+    position: Sales Consulting
+    social:
+      - title: twitter
+        url: #
+      - title: facebook
+        url: #
+      - title: linkedin
+        url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/matreeks
+  - title: facebook
+    url: http://facebook.com/matreeks
+  - title: github
+    url: http://github.com/matreeks
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 2275 Lake Shore Blvd W
+  - line: Toronto, ON M8V 3Y3
+  - line: Canada
+
+# Build settings
+markdown: kramdown
+permalink: pretty
